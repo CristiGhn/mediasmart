@@ -1,6 +1,6 @@
 # mediasmart
 
-Project has 2 Node.js applications (clien and api)
+Project has 2 Node.js applications (client and api)
 
 Client:
 1. Created in React with Create React app (npx create-react-app my-app) 
